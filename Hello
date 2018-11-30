@@ -1,1 +1,7 @@
 This is how you pull from Github to a folder 
+1 Make a new file 
+2 commit file
+3 copy location on github
+4 open GitBash in folder destination 
+5 use  "git clone" and "paste" the http: of the file destination
+//this will move the entire repository to this folder on your desktop//
